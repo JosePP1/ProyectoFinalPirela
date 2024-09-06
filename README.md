@@ -1,0 +1,1 @@
+"Simulador de tienda online con carrito de compra para el curso de JavaScript de CoderHouse"

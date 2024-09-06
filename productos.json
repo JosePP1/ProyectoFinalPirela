@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nombre":"Blue Jewel Cross Pendant",
+        "precio": 14.080,
+        "imagen": "images/blue_jewel_cross_pendant.webp"
+    },
+    {
+        "id": 2,
+        "nombre":"Coffin Bag (Synthetic Leather)",
+        "precio": 36.300,
+        "imagen": "images/coffin_bag.webp"
+    },
+    {
+        "id": 3,
+        "nombre":"Cross Arch Lace choker",
+        "precio": 4.620,
+        "imagen": "images/cross_arch_lace_choker.webp"
+    },
+    {
+        "id": 4,
+        "nombre":"Cross Logo Emblem Badge",
+        "precio": 3.960,
+        "imagen": "images/cross_logo_emblem_badge.webp"
+    },
+    {
+        "id": 5,
+        "nombre":"Cross Logo Spike Chain Choker",
+        "precio": 13.200,
+        "imagen": "images/cross_logo_spike_chain_choker.webp"
+    },
+    {
+        "id": 6,
+        "nombre":"Crystal Candelabra Earrings",
+        "precio": 5.500,
+        "imagen": "images/crystal_candelabra_earrings.webp"
+    },
+    {
+        "id": 7,
+        "nombre":"Crystal Candelabra Necklace",
+        "precio": 4.180,
+        "imagen": "images/crystal_candelabra_necklace.webp"
+    },
+    {
+        "id": 8,
+        "nombre":"【Online Shop Limited】Feather Headdress",
+        "precio": 11.000,
+        "imagen": "images/feather_headdress.webp"
+    },
+    {
+        "id": 9,
+        "nombre":"M+Cross Rose Collar",
+        "precio": 7.700,
+        "imagen": "images/m_cross_rose_collar.webp"
+    },
+    {
+        "id": 10,
+        "nombre":"M+ROSE x Cross Bracelet",
+        "precio": 5.720,
+        "imagen": "images/m_rose_cross_bracelet.webp"
+    },
+    {
+        "id": 11,
+        "nombre":"Saint fille Ear Cuff (1 Piece)",
+        "precio": 6.600,
+        "imagen": "images/saint_fille_ear_cuff.webp"
+    },
+    {
+        "id": 12,
+        "nombre":"Saint fille Necklace",
+        "precio": 8.800,
+        "imagen": "images/saint_fille_necklace.webp"
+    }
+]
