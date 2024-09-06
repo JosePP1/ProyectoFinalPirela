@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 icon: 'success',
                 confirmButtonText: 'OK'
             }).then(() => {
-                window.location.href = '/'; // Redirigir a la página principal o a otra página
+                window.location.href = './index.html'; // Redirigir a la página principal o a otra página
             });
 
         } catch (error) {
